@@ -1,0 +1,20 @@
+{
+    "name": "pxt-kitronik-piano",
+    "version": "0.0.1",
+    "description": "Blocks for driving the Kitronik micro:bit Piano",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ubit_piano.ts",
+        "shims.d.ts",
+        "enums.d.ts",
+        "ubit_piano.cpp"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
